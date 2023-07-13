@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+speech_style_transfer/pretrained_models
+*.mp4
+*.wav
+*.json
+*.mp3
+
 # Distribution / packaging
 .Python
 build/
